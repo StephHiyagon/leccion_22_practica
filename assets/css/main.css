@@ -1,3 +1,15 @@
 body{
   background-color: whitesmoke;
 }
+
+.yellow{
+  background-color: #fcf014;
+  padding: 10px;
+  margin: 0;
+}
+
+#pink{
+  background-color: #ff0c59;
+  padding: 10px;
+  margin:0;
+}
