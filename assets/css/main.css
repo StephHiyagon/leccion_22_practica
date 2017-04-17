@@ -4,12 +4,16 @@ body{
 
 .yellow{
   background-color: #fcf014;
-  padding: 10px;
-  margin: 0;
+  width: 150px;
+  height: 50px;
+  margin: 20px auto;
+  padding: 5px;
 }
 
 #pink{
   background-color: #ff0c59;
-  padding: 10px;
-  margin:0;
+  margin: 20px auto;
+  width: 150px;
+  height: 50px;
+  padding: 5px;
 }
